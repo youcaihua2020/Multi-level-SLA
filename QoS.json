@@ -1,0 +1,277 @@
+[{
+	"index": 0,
+	"name": "hotel_level",
+	"description": "Hotel star rating."
+},{
+	"index": 1,
+	"name": "is_officialPartner",
+	"description": "Whether the hotel is officially certified by Trip.com."
+},{
+	"index": 2,
+	"name": "basic_Info1",
+	"description": "The built time of the hotel."
+},{
+	"index": 3,
+	"name": "basic_Info2",
+	"description": "The opening time of the hotel."
+},{
+	"index": 4,
+	"name": "basic_Info3",
+	"description": "The total number of rooms in the hotel."
+},{
+	"index": 5,
+	"name": "hotel_score_value",
+	"description": "The comprehensive score of the hotel."
+},{
+	"index": 6,
+	"name": "class_scores1",
+	"description": "The sub-score of the hotel on the environment."
+},{
+	"index": 7,
+	"name": "class_scores2",
+	"description": "The sub-score of the hotel on the cleaning."
+},{
+	"index": 8,
+	"name": "class_scores3",
+	"description": "The sub-score of the hotel on the service."
+},{
+	"index": 9,
+	"name": "class_scores4",
+	"description": "The sub-score of the hotel on the infrastructure."
+},{
+	"index": 10,
+	"name": "hotel_comments1",
+	"description": "Total number of hotel comments."
+},{
+	"index": 11,
+	"name": "hotel_comments2",
+	"description": "Number of recommended comments."
+},{
+	"index": 12,
+	"name": "hotel_comments3",
+	"description": "Number of negative comments."
+},{
+	"index": 13,
+	"name": "hotel_comments4",
+	"description": "Number of comments with pictures."
+},{
+	"index": 14,
+	"name": "hotel_comments5",
+	"description": "Number of comments with videos."
+},{
+	"index": 15,
+	"name": "hotel_comments6",
+	"description": "Number of comments with pictures and videos."
+},{
+	"index": 16,
+	"name": "near_airport",
+	"description": "The distance to the nearest airport."
+},{
+	"index": 17,
+	"name": "near_station",
+	"description": "The distance to the nearest train station."
+},{
+	"index": 18,
+	"name": "near_center1",
+	"description": "How many attractions are within 1 km of the neighborhood?"
+},{
+	"index": 19,
+	"name": "near_center2",
+	"description": "The distance to the city center."
+},{
+	"index": 20,
+	"name": "near_other2",
+	"description": "The distance to the nearest traffic stops."
+},{
+	"index": 21,
+	"name": "near_other3",
+	"description": "Number of popular attractions nearby."
+},{
+	"index": 22,
+	"name": "near_other4",
+	"description": "Average distance to nearby attractions."
+},{
+	"index": 23,
+	"name": "near_other6",
+	"description": "Average distance to nearby shopping malls."
+},{
+	"index": 24,
+	"name": "near_other8",
+	"description": "Average distance to nearby restaurants."
+},{
+	"index": 25,
+	"name": "near_hotel2",
+	"description": "Average distance to nearby other hotels."
+},{
+	"index": 26,
+	"name": "con11",
+	"description": "Whether the hotel offers a ride-hailing service?"
+},{
+	"index": 27,
+	"name": "con16",
+	"description": "Are children's meals available?"
+},{
+	"index": 28,
+	"name": "con17",
+	"description": "Is there a cafe in the hotel?"
+},{
+	"index": 29,
+	"name": "con18",
+	"description": "Whether the hotel offers a food delivery service?"
+},{
+	"index": 30,
+	"name": "con20",
+	"description": "Is there a monitoring system in the common areas of the hotel?"
+},{
+	"index": 31,
+	"name": "con22",
+	"description": "Whether the hotel room has a fresh air system?"
+},{
+	"index": 32,
+	"name": "con23",
+	"description": "Whether the hotel have a public sound system?"
+},{
+	"index": 33,
+	"name": "con26",
+	"description": "Whether the hotel room has a smoke/fire/safety alarm system?"
+},{
+	"index": 34,
+	"name": "con27",
+	"description": "Are newspapers available in the hotel lobby?"
+},{
+	"index": 35,
+	"name": "con30",
+	"description": "Does the hotel have elevators?"
+},{
+	"index": 36,
+	"name": "con32",
+	"description": "Does the hotel provide fax/copy services?"
+},{
+	"index": 37,
+	"name": "con33",
+	"description": "Does the hotel have a conference room?"
+},{
+	"index": 38,
+	"name": "con35",
+	"description": "Does the hotel offer multilingual services?"
+},{
+	"index": 39,
+	"name": "con36",
+	"description": "Does the hotel have a first aid kit?"
+},{
+	"index": 40,
+	"name": "con37",
+	"description": "Does the hotel provide wedding reception services?"
+},{
+	"index": 41,
+	"name": "con39",
+	"description": "Does the hotel provide laundry services?"
+},{
+	"index": 42,
+	"name": "con41",
+	"description": "Does the hotel have a swimming pool?"
+},{
+	"index": 43,
+	"name": "con43",
+	"description": "Does the hotel have a recreation room?"
+},{
+	"index": 44,
+	"name": "con45",
+	"description": "Are barbecues allowed outside the hotel?"
+},{
+	"index": 45,
+	"name": "con46",
+	"description": "Does the hotel offer scuba diving?"
+},{
+	"index": 46,
+	"name": "con47",
+	"description": "Does the hotel have vending machines?"
+},{
+	"index": 47,
+	"name": "con48",
+	"description": "Does the hotel have an infirmary?"
+},{
+	"index": 48,
+	"name": "con49",
+	"description": "Does the hotel have a garden?"
+},{
+	"index": 49,
+	"name": "con50",
+	"description": "Does the hotel have a rest area for non-operating guests?"
+},{
+	"index": 50,
+	"name": "con51",
+	"description": "Does the hotel have a gift gallery or a small shop?"
+},{
+	"index": 51,
+	"name": "con52",
+	"description": "Is there a children's park in the hotel?"
+},{
+	"index": 52,
+	"name": "con54",
+	"description": "Does the hotel provide child care services?"
+},{
+	"index": 53,
+	"name": "con55",
+	"description": "Does the hotel offer bicycle rental services?"
+},{
+	"index": 54,
+	"name": "con56",
+	"description": "Does the hotel provide the drop-off service?"
+},{
+	"index": 55,
+	"name": "con57",
+	"description": "Does the hotel provide the pick-up service?"
+},{
+	"index": 56,
+	"name": "con58",
+	"description": "Does the hotel provide shuttle bus services?"
+},{
+	"index": 57,
+	"name": "con60",
+	"description": "Does the hotel change the sheets/utensils/towels every day?"
+},{
+	"index": 58,
+	"name": "con61",
+	"description": "Are the sheets/utensils/towels of the hotel changed for each guest?"
+},{
+	"index": 59,
+	"name": "con62",
+	"description": "Does the hotel offer the car rental service?"
+},{
+	"index": 60,
+	"name": "roomstyle_1",
+	"description": "How many beds are in the room?"
+},{
+	"index": 61,
+	"name": "roomstyle_2",
+	"description": "Width of bed."
+},{
+	"index": 62,
+	"name": "addroom_1",
+	"description": "Is it possible to have an extra bed?"
+},{
+	"index": 63,
+	"name": "addroom_2",
+	"description": "The charge of an extra bed."
+},{
+	"index": 64,
+	"name": "area",
+	"description": "Room area."
+},{
+	"index": 65,
+	"name": "window",
+	"description": "Whether the room has windows?"
+},{
+	"index": 66,
+	"name": "smoke",
+	"description": "Is smoking allowed in the room?"
+},{
+	"index": 67,
+	"name": "high0",
+	"description": "The lowest floor of the room."
+},{
+	"index": 68,
+	"name": "high1",
+	"description": "The highest floor of the room."
+}]

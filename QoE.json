@@ -1,0 +1,661 @@
+[{
+	"index": 0,
+	"name": "a1",
+	"category": "Overall feeling",
+	"description": "How do you feel overall?"
+},{
+	"index": 1,
+	"name": "a2",
+	"category": "Overall feeling",
+	"description": "How is the cost performance of overall trip? Is it worth it?"
+},{
+	"index": 2,
+	"name": "a3",
+	"category": "Overall feeling",
+	"description": "Is travel suitable for children?"
+},{
+	"index": 3,
+	"name": "a4",
+	"category": "Overall feeling",
+	"description": "Is travel suitable for old people?"
+},{
+	"index": 4,
+	"name": "b0",
+	"category": "Tour guide",
+	"description": "What about the tour guide?"
+},{
+	"index": 5,
+	"name": "b1",
+	"category": "Tour guide",
+	"description": "Is the guide's explanation humorous?"
+},{
+	"index": 6,
+	"name": "b2",
+	"category": "Tour guide",
+	"description": "Is the tour guide professional? Is it eloquent? Is it knowledgeable?"
+},{
+	"index": 7,
+	"name": "b3",
+	"category": "Tour guide",
+	"description": "Does the guide explain well? Is the explanation detailed?"
+},{
+	"index": 8,
+	"name": "b4",
+	"category": "Tour guide",
+	"description": "Is the guide pretty or handsome?"
+},{
+	"index": 9,
+	"name": "b5",
+	"category": "Tour guide",
+	"description": "Is the tour guide service attentive and considerate?"
+},{
+	"index": 10,
+	"name": "b6",
+	"category": "Tour guide",
+	"description": "Is the tour guide service patient?"
+},{
+	"index": 11,
+	"name": "b7",
+	"category": "Tour guide",
+	"description": "Is the tour guide service warm? Is the attitude polite?"
+},{
+	"index": 12,
+	"name": "b8",
+	"category": "Tour guide",
+	"description": "Is the tour guide responsible? Is it dedicated? Is it experienced?"
+},{
+	"index": 13,
+	"name": "b9",
+	"category": "Tour guide",
+	"description": "Does the guide have a good knowledge of the local history, culture and people?"
+},{
+	"index": 14,
+	"name": "c0",
+	"category": "Travel arrangement",
+	"description": "How about the travel arrangements?"
+},{
+	"index": 15,
+	"name": "c1",
+	"category": "Travel arrangement",
+	"description": "Is the arrangement reasonable?"
+},{
+	"index": 16,
+	"name": "c2",
+	"category": "Travel arrangement",
+	"description": "Is the arrangement tight?"
+},{
+	"index": 17,
+	"name": "c3",
+	"category": "Travel arrangement",
+	"description": "Is the arrangement relaxed?"
+},{
+	"index": 18,
+	"name": "c4",
+	"category": "Travel arrangement",
+	"description": "Is the arrangement consistent with the description?"
+},{
+	"index": 19,
+	"name": "c5",
+	"category": "Travel arrangement",
+	"description": "Does the trip feel fulfilling?"
+},{
+	"index": 20,
+	"name": "c6",
+	"category": "Travel arrangement",
+	"description": "Does the journey feel hard, tired, exhausted, restless?"
+},{
+	"index": 21,
+	"name": "c7",
+	"category": "Travel arrangement",
+	"description": "Does the trip feel relaxed, casual, leisurely?"
+},{
+	"index": 22,
+	"name": "c8",
+	"category": "Travel arrangement",
+	"description": "Is the journey regrettable? Don't you feel like you've had enough?"
+},{
+	"index": 23,
+	"name": "c9",
+	"category": "Travel arrangement",
+	"description": "Does the trip feel reassuring, safe, carefree and hassle-free?"
+},{
+	"index": 24,
+	"name": "c10",
+	"category": "Travel arrangement",
+	"description": "Did the journey feel smooth? Did the typhoon affect the itinerary?"
+},{
+	"index": 25,
+	"name": "c11",
+	"category": "Travel arrangement",
+	"description": "Is the trip boring and boring? Does it feel like a waste of time?"
+},{
+	"index": 26,
+	"name": "c12",
+	"category": "Travel arrangement",
+	"description": "Does the trip need to get up early to travel? Do you get enough sleep?"
+},{
+	"index": 27,
+	"name": "c13",
+	"category": "Travel arrangement",
+	"description": "Does the trip need to travel in the dark?"
+},{
+	"index": 28,
+	"name": "c14",
+	"category": "Travel arrangement",
+	"description": "Is the play time in a hurry? Is there plenty of time to play?"
+},{
+	"index": 29,
+	"name": "c15",
+	"category": "Travel arrangement",
+	"description": "Is the journey free? How do you like your free time?"
+},{
+	"index": 30,
+	"name": "d0",
+	"category": "Scenic spot",
+	"description": "What about the scenic spots?"
+},{
+	"index": 31,
+	"name": "d1",
+	"category": "Scenic spot",
+	"description": "Is it a famous cultural city with a long history? Does it reflect the natural simplicity of customs and natural landscapes?"
+},{
+	"index": 32,
+	"name": "d2",
+	"category": "Scenic spot",
+	"description": "Is the scenic spot commercial?"
+},{
+	"index": 33,
+	"name": "d3",
+	"category": "Scenic spot",
+	"description": "Are there many tourists in the scenic spots?"
+},{
+	"index": 34,
+	"name": "d4",
+	"category": "Scenic spot",
+	"description": "Is the weather sunny, cool and rain-free? Is it muggy and humid?"
+},{
+	"index": 35,
+	"name": "d5",
+	"category": "Scenic spot",
+	"description": "Is the scenic spot beautiful?"
+},{
+	"index": 36,
+	"name": "d6",
+	"category": "Scenic spot",
+	"description": "Is there a forest, park, island, sea, beach, sailing, yacht and other features of the scenic spots?"
+},{
+	"index": 37,
+	"name": "d7",
+	"category": "Scenic spot",
+	"description": "Is the scenic spot a typical local classic famous popular spot?"
+},{
+	"index": 38,
+	"name": "e1",
+	"category": "Gameplay experience",
+	"description": "Is the game exciting?"
+},{
+	"index": 39,
+	"name": "e2",
+	"category": "Gameplay experience",
+	"description": "Is the game fun, interesting, exciting, deep?"
+},{
+	"index": 40,
+	"name": "e3",
+	"category": "Gameplay experience",
+	"description": "Is the game distinctive?"
+},{
+	"index": 41,
+	"name": "e4",
+	"category": "Gameplay experience",
+	"description": "Is the game project self-funded?"
+},{
+	"index": 42,
+	"name": "e5",
+	"category": "Gameplay experience",
+	"description": "Does the game project have to wait in line?"
+},{
+	"index": 43,
+	"name": "e6",
+	"category": "Gameplay experience",
+	"description": "Are the game items numerous and abundant?"
+},{
+	"index": 44,
+	"name": "e7",
+	"category": "Gameplay experience",
+	"description": "How about a show? Is the performance worth the shock?"
+},{
+	"index": 45,
+	"name": "e8",
+	"category": "Gameplay experience",
+	"description": "Do travel photographers look good?"
+},{
+	"index": 46,
+	"name": "f0",
+	"category": "Hotel accommodation",
+	"description": "How about hotel accommodation?"
+},{
+	"index": 47,
+	"name": "f1",
+	"category": "Hotel accommodation",
+	"description": "Is the service of hotel reception hospitable?"
+},{
+	"index": 48,
+	"name": "f2",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel service thoughtful?"
+},{
+	"index": 49,
+	"name": "f3",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel service flexible?"
+},{
+	"index": 50,
+	"name": "f6",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel family-friendly?"
+},{
+	"index": 51,
+	"name": "f7",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel suitable for wedding outings?"
+},{
+	"index": 52,
+	"name": "f8",
+	"category": "Hotel accommodation",
+	"description": "Does the hotel have rooms with a view? At the seaside? Is it close to the scenic area?"
+},{
+	"index": 53,
+	"name": "f9",
+	"category": "Hotel accommodation",
+	"description": "Is the environment of hotel nice and beautiful?"
+},{
+	"index": 54,
+	"name": "f10",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel in a remote location? Is it downtown?"
+},{
+	"index": 55,
+	"name": "f12",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel room stay comfortable?"
+},{
+	"index": 56,
+	"name": "f13",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel room clean and hygienic? Has the bed been changed? Are there bugs?"
+},{
+	"index": 57,
+	"name": "f14",
+	"category": "Hotel accommodation",
+	"description": "Are the hotel rooms large and spacious?"
+},{
+	"index": 58,
+	"name": "f15",
+	"category": "Hotel accommodation",
+	"description": "Is it good to be able to rest and sleep in the room? Do you fall asleep?"
+},{
+	"index": 59,
+	"name": "f16",
+	"category": "Hotel accommodation",
+	"description": "Is the bed comfortable?"
+},{
+	"index": 60,
+	"name": "f18",
+	"category": "Hotel accommodation",
+	"description": "Is the room quiet? Is the room sound-proof? Is there a lot of noise?"
+},{
+	"index": 61,
+	"name": "f19",
+	"category": "Hotel accommodation",
+	"description": "Does the room smell musty or foul? Is the room very damp? Is there good ventilation?"
+},{
+	"index": 62,
+	"name": "f22",
+	"category": "Hotel accommodation",
+	"description": "Is the value for money in the hotel a great value?"
+},{
+	"index": 63,
+	"name": "f23",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel check-in fast and efficient?"
+},{
+	"index": 64,
+	"name": "f24",
+	"category": "Hotel accommodation",
+	"description": "Does the hotel change the room type when checking in? Is there an upgrade?"
+},{
+	"index": 65,
+	"name": "f25",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel check-in consistent with the order description?"
+},{
+	"index": 66,
+	"name": "f26",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel infrastructure complete?"
+},{
+	"index": 67,
+	"name": "f27",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel infrastructure aging? Is it bad? Is it not usable?"
+},{
+	"index": 68,
+	"name": "f28",
+	"category": "Hotel accommodation",
+	"description": "How about the pool?"
+},{
+	"index": 69,
+	"name": "f29",
+	"category": "Hotel accommodation",
+	"description": "How about the balcony?"
+},{
+	"index": 70,
+	"name": "f30",
+	"category": "Hotel accommodation",
+	"description": "How about the air conditioning in the hotel?"
+},{
+	"index": 71,
+	"name": "f31",
+	"category": "Hotel accommodation",
+	"description": "How about the bathtub in the hotel?"
+},{
+	"index": 72,
+	"name": "f32",
+	"category": "Hotel accommodation",
+	"description": "How about the hotel gym?"
+},{
+	"index": 73,
+	"name": "f33",
+	"category": "Hotel accommodation",
+	"description": "How about the hotel refrigerator?"
+},{
+	"index": 74,
+	"name": "f34",
+	"category": "Hotel accommodation",
+	"description": "How about the washing machine in the hotel?"
+},{
+	"index": 75,
+	"name": "f35",
+	"category": "Hotel accommodation",
+	"description": "How about the elevator in the hotel?"
+},{
+	"index": 76,
+	"name": "f36",
+	"category": "Hotel accommodation",
+	"description": "How about the microwave oven in the hotel?"
+},{
+	"index": 77,
+	"name": "f37",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel star, gold, luxury, upscale, superior?"
+},{
+	"index": 78,
+	"name": "f39",
+	"category": "Hotel accommodation",
+	"description": "Is the transportation around the hotel convenient?"
+},{
+	"index": 79,
+	"name": "f40",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel close to the airport and the station?"
+},{
+	"index": 80,
+	"name": "f41",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel near the shopping place?"
+},{
+	"index": 81,
+	"name": "f42",
+	"category": "Hotel accommodation",
+	"description": "Are there many restaurants around the hotel?"
+},{
+	"index": 82,
+	"name": "f43",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel new or newly renovated?"
+},{
+	"index": 83,
+	"name": "f44",
+	"category": "Hotel accommodation",
+	"description": "Is the hotel old and run-down?"
+},{
+	"index": 84,
+	"name": "g0",
+	"category": "Group meal",
+	"description": "How about a group meal?"
+},{
+	"index": 85,
+	"name": "g1",
+	"category": "Group meal",
+	"description": "Does the group meal taste good?"
+},{
+	"index": 86,
+	"name": "g2",
+	"category": "Group meal",
+	"description": "Is the group meal authentic?"
+},{
+	"index": 87,
+	"name": "g3",
+	"category": "Group meal",
+	"description": "Does the group meal taste light?"
+},{
+	"index": 88,
+	"name": "g5",
+	"category": "Group meal",
+	"description": "Is the taste of group meals heavy? Is it spicy and salty?"
+},{
+	"index": 89,
+	"name": "g6",
+	"category": "Group meal",
+	"description": "How about the seafood?"
+},{
+	"index": 90,
+	"name": "g7",
+	"category": "Group meal",
+	"description": "Is there a barbecue for the group meal?"
+},{
+	"index": 91,
+	"name": "g8",
+	"category": "Group meal",
+	"description": "How about the group buffet?"
+},{
+	"index": 92,
+	"name": "g9",
+	"category": "Group meal",
+	"description": "Do you have any traditional snacks or local delicacies?"
+},{
+	"index": 93,
+	"name": "g10",
+	"category": "Group meal",
+	"description": "How about a vegetarian group meal?"
+},{
+	"index": 94,
+	"name": "g11",
+	"category": "Group meal",
+	"description": "Is the group meal realistic and cost-effective?"
+},{
+	"index": 95,
+	"name": "g12",
+	"category": "Group meal",
+	"description": "Is the group meal rich and full? Can you eat enough?"
+},{
+	"index": 96,
+	"name": "g13",
+	"category": "Group meal",
+	"description": "Is the group meal fresh and hygienic?"
+},{
+	"index": 97,
+	"name": "g14",
+	"category": "Group meal",
+	"description": "How about the variety of meals?"
+},{
+	"index": 98,
+	"name": "g15",
+	"category": "Group meal",
+	"description": "What about paid upgraded meals?"
+},{
+	"index": 99,
+	"name": "g16",
+	"category": "Group meal",
+	"description": "How about breakfast at the hotel?"
+},{
+	"index": 100,
+	"name": "g17",
+	"category": "Group meal",
+	"description": "Is there a long wait for the group meal? Is there enough time to eat?"
+},{
+	"index": 101,
+	"name": "h0",
+	"category": "Transportation",
+	"description": "How about transportation?"
+},{
+	"index": 102,
+	"name": "h1",
+	"category": "Transportation",
+	"description": "Is the distance far? Does the ride take long?"
+},{
+	"index": 103,
+	"name": "h2",
+	"category": "Transportation",
+	"description": "Is the tour route smooth? Is there any traffic jam?"
+},{
+	"index": 104,
+	"name": "h3",
+	"category": "Transportation",
+	"description": "Does the driver drive smoothly?"
+},{
+	"index": 105,
+	"name": "h4",
+	"category": "Transportation",
+	"description": "Is there any airport pick-up and drop-off service? Is anyone in charge of getting off the plane?"
+},{
+	"index": 106,
+	"name": "h5",
+	"category": "Transportation",
+	"description": "Is the airport pick-up and drop-off on time?"
+},{
+	"index": 107,
+	"name": "h6",
+	"category": "Transportation",
+	"description": "Is the airport drop-off too early?"
+},{
+	"index": 108,
+	"name": "h7",
+	"category": "Transportation",
+	"description": "Is the service of the bus driver good?"
+},{
+	"index": 109,
+	"name": "h8",
+	"category": "Transportation",
+	"description": "Is the flight delayed?"
+},{
+	"index": 110,
+	"name": "h9",
+	"category": "Transportation",
+	"description": "Has the flight been canceled or rescheduled?"
+},{
+	"index": 111,
+	"name": "h11",
+	"category": "Transportation",
+	"description": "Is the airport service good? Is the wait too long? Is there an extra shipping charge?"
+},{
+	"index": 112,
+	"name": "h12",
+	"category": "Transportation",
+	"description": "Are seats in the bus or tour bus spacious?"
+},{
+	"index": 113,
+	"name": "h13",
+	"category": "Transportation",
+	"description": "Is the bus or tour bus a commercial or special bus?"
+},{
+	"index": 114,
+	"name": "h14",
+	"category": "Transportation",
+	"description": "Is the departure time of the bus punctual? Are you waiting, delayed, late?"
+},{
+	"index": 115,
+	"name": "h15",
+	"category": "Transportation",
+	"description": "Does the bus have air conditioning?"
+},{
+	"index": 116,
+	"name": "h16",
+	"category": "Transportation",
+	"description": "Is the bus environment clean?"
+},{
+	"index": 117,
+	"name": "h17",
+	"category": "Transportation",
+	"description": "Is the morning and evening schedule reasonable?"
+},{
+	"index": 118,
+	"name": "j0",
+	"category": "Shopping",
+	"description": "How about shopping?"
+},{
+	"index": 119,
+	"name": "j1",
+	"category": "Shopping",
+	"description": "Is the store cost-effective? Is it good value for money?"
+},{
+	"index": 120,
+	"name": "j3",
+	"category": "Shopping",
+	"description": "Is the price of shopping cheap, affordable, cost-effective, preferential?"
+},{
+	"index": 121,
+	"name": "j4",
+	"category": "Shopping",
+	"description": "Are the prices of the goods in the shopping area expensive?"
+},{
+	"index": 122,
+	"name": "j5",
+	"category": "Shopping",
+	"description": "Is the consumption at the shopping point free and voluntary? Is it forced consumption?"
+},{
+	"index": 123,
+	"name": "j6",
+	"category": "Shopping",
+	"description": "Is the consumption at the shopping point hidden and extra?"
+},{
+	"index": 124,
+	"name": "j7",
+	"category": "Shopping",
+	"description": "Is the consumption at the shopping center deceptive, deceptive, or selling? Is it an honest recommendation?"
+},{
+	"index": 125,
+	"name": "j8",
+	"category": "Shopping",
+	"description": "Does the shopping center or tour guide give gifts?"
+},{
+	"index": 126,
+	"name": "j9",
+	"category": "Shopping",
+	"description": "Are the products of the shopping place local specialties?"
+},{
+	"index": 127,
+	"name": "j11",
+	"category": "Shopping",
+	"description": "Is there no shopping during the whole trip? Is it pure play?"
+},{
+	"index": 128,
+	"name": "j12",
+	"category": "Shopping",
+	"description": "Is shopping taking too long?"
+},{
+	"index": 129,
+	"name": "k1",
+	"category": "Travel agency",
+	"description": "Is the travel agency self-operated by Trip.com?"
+},{
+	"index": 130,
+	"name": "k2",
+	"category": "Travel agency",
+	"description": "Are the group members cordial, friendly and harmonious?"
+},{
+	"index": 131,
+	"name": "k3",
+	"category": "Travel agency",
+	"description": "Has the customer service of travel agency informed the precautions in advance?"
+}]
