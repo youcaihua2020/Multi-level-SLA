@@ -8,9 +8,9 @@
 
    ```json
    {
-   	"index": XX,
-   	"name": XX,
-   	"description": XX
+   	"index": "XX",
+   	"name": "XX",
+   	"description": "XX"
    }
    ```
 
@@ -22,10 +22,10 @@
 
    ```json
    {
-   	"index": XX,
-   	"name": XX,
-       "category": XX,
-   	"description": XX
+   	"index": "XX",
+   	"name": "XX",
+       "category": "XX",
+   	"description": "XX"
    }
    ```
 
@@ -35,11 +35,11 @@
 
    Data shape: (65878, 64).
 
-4. /main/Weights_W_b.csv
+4. /main/Weights_W.csv and /main/Weights_b.csv
 
    Parameters W and b of user satisfaction mapping functions;
 
-   Data shape: (65878, 69 + 69).
+   Data shape: (65878, 69).
 
 5. /main/UPP_Interval.csv
 
